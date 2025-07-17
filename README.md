@@ -1,19 +1,46 @@
-### 👋 Hi there, I'm Uddhav Narayan
+  Hi, I'm Uddhav Narayan
 
-🎓 Final Year Student, B.E. Electrical and Electronics Engineering  
-🏫 Rajalakshmi Engineering College, Chennai  
-💡 Passionate about Power Systems, Embedded Systems, and IoT  
-🔧 Learning Python, MATLAB, and Arduino  
+  🎓 Final Year EEE Student | 💡 Electronics Enthusiast | 👨‍💻 Aspiring Embedded Systems & IoT Engineer  
 
-💻 Tools & Technologies
-- Programming: Python, C
-- Tools: MATLAB, Arduino, Git, VS Code
-- Interests: IoT, Robotics, Control Systems
 
- 📫 How to reach me:
-- Email: uddhavnarayan@gmail.com
-- 
- 📌 Current Goals
-- Contribute to open-source EEE projects  
-- Build final year project and share updates here  
-- Learn advanced Git and GitHub skills
+ 🧠 About Me
+
+- 🎓 Final Year B.E. in Electrical and Electronics Engineering  
+  at **Rajalakshmi Engineering College**, Chennai  
+- 🔬 Strong foundation in **embedded systems, control systems, and power electronics**  
+- ⚙️ Skilled in **MATLAB, Arduino, Proteus, and circuit simulation** tools  
+- 💻 Learning **Python**, **C**, and **Git** for automation and system-level programming  
+
+
+🛠️ Technical Skills
+
+- **Languages:** C, Python, Embedded C  
+- **Tools:** MATLAB, Simulink, Arduino IDE, Proteus, KiCad, VS Code  
+- **Domains:** Embedded Systems, IoT, Microcontrollers (ATmega, ESP32), PCB Design  
+- **Soft Skills:** Team collaboration, Problem-solving, Technical documentation
+
+
+
+ 📂 Noteworthy Projects
+
+- 🔋 **IoT-Based Smart Energy Meter**  
+  Designed and simulated a real-time monitoring system using ESP32 and cloud-based dashboard.
+
+- 🌡️ **Home Automation System using Arduino & Bluetooth**  
+  Developed a low-cost automation solution using sensors and relays.
+
+- 🚗 **Line Following Robot**  
+  Programmed a robot with IR sensors to navigate paths autonomously.
+
+
+
+ 📫 Let’s Connect
+
+- 📧 Email: uddhavnarayan@gmail.com
+
+
+ 📌 Current Focus
+
+- 🔧 Enhancing skills in **embedded C**, **PCB design**, and **IoT protocols**  
+- 📘 Contributing to open-source hardware/software projects  
+- 📄 Preparing for core job placements and tech internships
