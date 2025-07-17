@@ -20,20 +20,6 @@
 - **Soft Skills:** Team collaboration, Problem-solving, Technical documentation
 
 
-
- 📂 Noteworthy Projects
-
-- 🔋 **IoT-Based Smart Energy Meter**  
-  Designed and simulated a real-time monitoring system using ESP32 and cloud-based dashboard.
-
-- 🌡️ **Home Automation System using Arduino & Bluetooth**  
-  Developed a low-cost automation solution using sensors and relays.
-
-- 🚗 **Line Following Robot**  
-  Programmed a robot with IR sensors to navigate paths autonomously.
-
-
-
  📫 Let’s Connect
 
 - 📧 Email: uddhavnarayan@gmail.com
