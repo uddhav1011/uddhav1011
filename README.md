@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi there, I'm Uddhav Narayan
 
-<!--
-**uddhav1011/uddhav1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Student, B.E. Electrical and Electronics Engineering  
+🏫 Rajalakshmi Engineering College, Chennai  
+💡 Passionate about Power Systems, Embedded Systems, and IoT  
+🔧 Learning Python, MATLAB, and Arduino  
 
-Here are some ideas to get you started:
+💻 Tools & Technologies
+- Programming: Python, C
+- Tools: MATLAB, Arduino, Git, VS Code
+- Interests: IoT, Robotics, Control Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 How to reach me:
+- Email: uddhavnarayan@gmail.com
+- 
+ 📌 Current Goals
+- Contribute to open-source EEE projects  
+- Build final year project and share updates here  
+- Learn advanced Git and GitHub skills
